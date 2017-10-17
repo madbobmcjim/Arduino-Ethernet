@@ -8,12 +8,12 @@ This board is designed to be an IOT sensor node, with connections for:
 
 
 # BOM 
-Name|Value|Description
-----|-----|-----------
-J1|RJ45-SI52008-F|Magjack:MagJack-SI-52008-F
+Name|Value|Description|Link
+----|-----|-----------|-----
+J1|RJ45-SI52008-F|Magjack:MagJack-SI-52008-F|http://uk.farnell.com/stewart-connector/si-52008-f/modular-jack-tht-r-a-led-rj45/dp/1572195
 L1|L	|Ferite Bead 0805
-P1|Door1	|Magjack:TE-Micro-2pin
-P2|Door2	|Magjack:TE-Micro-2pin
+P1|Door1	|TE-Micro-2pin
+P2|Door2	|TE-Micro-2pin
 P3|Temp	|Pin_Headers:Pin_Header_Straight_1x03
 P4|Alt. |Power	Pin_Headers:Pin_Header_Straight_1x02
 P5|Breakout	|Pin_Headers:Pin_Header_Straight_2x06
