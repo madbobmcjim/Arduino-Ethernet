@@ -6,6 +6,11 @@ This board is designed to be an IOT sensor node, with connections for:
 * Door sensor switches
 * Breakout header for other boards/sensors
 
+# First prototype boards are in!
+
+# ToDo
+Rearrange device numbers
+
 
 # BOM 
 Name|Value|Description|Link
