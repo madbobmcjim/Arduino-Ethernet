@@ -10,6 +10,8 @@ This board is designed to be an IOT sensor node, with connections for:
 
 # ToDo
 Rearrange device numbers
+Move SCL/SDA pins
+Rewire Ethernet pins - TP-Out too close to socket
 
 
 # BOM 
