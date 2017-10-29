@@ -7,11 +7,12 @@ This board is designed to be an IOT sensor node, with connections for:
 * Breakout header for other boards/sensors
 
 # First prototype boards are in!
+![Image of board](https://github.com/madbobmcjim/Arduino-Ethernet/blob/master/IMG_20171028_134342795.jpg)
 
 # ToDo
-Rearrange device numbers
-Move SCL/SDA pins
-Rewire Ethernet pins - TP-Out too close to socket
+* Rearrange device numbers
+* Move SCL/SDA pins
+* Rewire Ethernet pins - TP-Out too close to socket
 
 
 # BOM 
