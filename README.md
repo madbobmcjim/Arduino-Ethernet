@@ -13,6 +13,8 @@ This board is designed to be an IOT sensor node, with connections for:
 * Rearrange device numbers
 * Move SCL/SDA pins
 * Rewire Ethernet pins - TP-Out too close to socket
+* Greater distance between Eth port and VRM
+* Change C15 for a Radial capacitor
 
 
 # BOM 
